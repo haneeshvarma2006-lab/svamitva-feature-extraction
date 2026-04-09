@@ -24,8 +24,8 @@ Buildings, Roads, Water Bodies, Utilities
 - Architecture: Custom CNN Encoder-Decoder
 - Loss Function: BCELoss
 - Optimizer: Adam (lr=0.001)
-- Epochs: 10
-- Final Loss: 43.6
+- Epochs: 30
+- Final Loss: 15.3
 
 ## File Structure
 - model.py — CNN architecture
